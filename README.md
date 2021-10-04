@@ -1,3 +1,3 @@
 # welcome
-hi welcome
+ welcome
 git
